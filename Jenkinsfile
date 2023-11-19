@@ -25,7 +25,7 @@ pipeline {
 
     stage('Pushing Image') {
       environment {
-               registryCredential = 'tihitinawB-jenkins'
+               registryCredential = 'tihitinawb-dockerhub'
            }
       steps{
         script {
