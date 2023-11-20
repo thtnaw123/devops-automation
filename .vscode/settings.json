@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1%40deployment": "file:///media/thtnaw/0A8AF84A8AF834332/code%20ll/devops/node-app/deployment-service.yaml"
+  }
+}
